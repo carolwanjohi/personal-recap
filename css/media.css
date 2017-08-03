@@ -1,0 +1,23 @@
+/*Apply conditions if screen is GREATER than 400px*/
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
+
+
+/*max-width 4800ps: Apply when screen width is LESSER than 480px*/
+
+/*Apply when screen width is greater than 768px*/
+
+@media screen and (min-width: 768px) {
+  body {
+    background-color: yellowgreen;
+  }
+  .column {
+    width: 220px;
+    float: left;
+    padding: 15px;
+  }
+}
