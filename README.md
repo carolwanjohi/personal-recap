@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a folder that contains short codes to practice new consepts.
+This is a folder that contains short codes to practice new concepts.
 
 ## Setup/Installation Requirements
 
