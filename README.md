@@ -1,4 +1,3 @@
-# personal-recap
 # Personal Recap
 
 ## Created for personal pracitce
